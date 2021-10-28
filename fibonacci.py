@@ -6,7 +6,6 @@ i = 0
 if input_num == 1:
     print(num1)
 else:
-    print("Fibonacci sequence:")
     while i < input_num:
         print(num1)
         nth = num1 + num2
